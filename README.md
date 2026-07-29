@@ -65,21 +65,6 @@ git clone https://github.com/luizadcarvalho/sistema-estacionamento.git
 
 3. Execute a aplicação.
 
-## 📸 Demonstração
-
-Adicione aqui imagens da aplicação.
-
-Exemplo:
-
-```
-/images
-```
-
-ou
-
-```markdown
-![Tela Inicial](images/tela-inicial.png)
-```
 
 ## 🚀 Aprendizados
 
@@ -105,6 +90,6 @@ Durante o desenvolvimento deste projeto, pude aprimorar conhecimentos em:
 
 **Maria Luiza Carvalho**
 
-📧 LinkedIn: https://www.linkedin.com/in/SEU-LINK/
+📧 LinkedIn: (https://www.linkedin.com/in/maria-luizacarvalho
 
 GitHub: https://github.com/luizadcarvalho
